@@ -10,7 +10,7 @@ polynomial arithmetic; the fast Fourier transform; and NP-hard and NP-complete p
 
 
 
-<U>**Prof. [Lorenzo Orecchia]**</U>  
+<U><B>Prof. [Lorenzo Orecchia]</B></U>  
 <b>Office Hours</b>:&nbsp; Tues 3 - 4PM (by prior appointment) and Wed 1-3PM in MCS 135D.
 
 
@@ -125,7 +125,6 @@ We will no doubt drift from any formal plan, but a rough schedule of where we ar
 topics will take roughly one week, except as noted.  A more detailed and continually updated schedule will be maintained on the main course homepage.  
 
 
-</p><ol>
 <li>Course overview.  Stable matching, implementation, running times.
 </li><li>Graphs and basic graph algorithms (2 weeks)
 </li><li>Greedy algorithms for optimization problems (2 weeks)
@@ -136,9 +135,7 @@ topics will take roughly one week, except as noted.  A more detailed and continu
 </li><li>Lower bounds and approximation algorithms
 </li><li>Local search and heuristic approaches 
 </li><li>Randomized algorithms, including median-finding and order statistics
-</li></ol>
-<p>
-
+</li>
 
 
 ## Academic Conduct
