@@ -95,7 +95,7 @@ The course grade will break down as follows:
 - 25% in-class midterm exam (in-class, planned for Tuesday, October 16).
 - 35% comprehensive final, in the normal exam slot for classes in our respective time blocks.
 
-**Important Dates**: Last day to drop without a W: Feb 22. With a W: March 30. Incompletes for this class will not be granted. 
+**Important Dates**: Last day to drop without a W: October 9. With a W: November 9. Incompletes for this class will not be granted. 
 
 **Workload**: Be forewarned -- the workload in this course will be moderately heavy. We will have seven homework assignments, plus or minus one, due roughly every other week. The majority of the problems on the homeworks will require written (preferably typeset) solutions, but some of the problems will contain small-scale implementations and simulations. These can readily be done in a language of your choice -- for example, either Java or Python is fine. As you likely already know, assignments requiring substantial creativity can take more time than you expect, so plan to finish a day early.
 
