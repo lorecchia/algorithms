@@ -10,7 +10,7 @@ polynomial arithmetic; the fast Fourier transform; and NP-hard and NP-complete p
 
 
 
-<U><B><a href="orecchia.net" >Prof. Lorenzo Orecchia</a></B></U>  
+<U><B><a href="http://orecchia.net" >Prof. Lorenzo Orecchia</a></B></U>  
 <b>Office Hours</b>:&nbsp; Tues 3 - 4PM (by prior appointment) and Wed 1-3PM in MCS 135D.
 
 
