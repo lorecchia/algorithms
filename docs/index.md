@@ -16,7 +16,7 @@ polynomial arithmetic; the fast Fourier transform; and NP-hard and NP-complete p
 
 <U><B>Prof. Dora Erdos</B></U>
 <BR><B>Email:</b> &nbsp;&nbsp; edori at bu . edu  
-<b>Office Hours</b>  TBD. 
+<b>Office Hours</b>  Wed 9:30-10:30AM (by prior appointment) Thur 12:30-2:30PM in MCS288. 
 <BR>
 
 <U><B>Hannah Catabia (TF)</B></U>
