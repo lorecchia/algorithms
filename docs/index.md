@@ -21,12 +21,12 @@ polynomial arithmetic; the fast Fourier transform; and NP-hard and NP-complete p
 
 <U><B>Hannah Catabia (TF)</B></U>
 <BR><B>Email:</b> &nbsp;&nbsp; catabia at bu . edu  
-<b>Office Hours</b>  TBD. 
+<b>Office Hours</b>  T-Th 4-5.30PM in EMA 302. 
 <BR>
 
 <U><B>Xin Lu (TF)</B></U>
 <BR><B>Email:</b> &nbsp;&nbsp; xl at bu . edu  
-<b>Office Hours</b>  TBD. 
+<b>Office Hours</b>   T-Th 5.30-7PM in EMA 302. . 
 <BR>
 
 
